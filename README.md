@@ -1,2 +1,4 @@
 # Hotel-Management-System
 Performs all the basic functions that you need in a hotel management system like getting the consumer an avaiable room calculation all of the price for his stay tax included and all the add-ons he took during his stay
+
+A hotel management system is a set of computer programs that help a hotel run smoothly. It can handle things like making reservations, checking guests in and out, keeping track of rooms and their availability, and managing the hotel's finances. It can also help with tasks like scheduling housekeeping and maintenance. The goal of a hotel management system is to make it easier for the hotel staff to do their jobs and provide a better experience for guests. It can also help the hotel owners and managers make better decisions by providing them with information about how the hotel is doing financially and how guests are interacting with the hotel.
