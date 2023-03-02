@@ -2,13 +2,36 @@
 
 <img src="https://www.serpentcs.in/web/image/4261">
 
-*Since I developed the program in class 12 high school in India the bill for reastaurant would be in Rupees.
+Since I developed the program in class 12 high school in India the bill for reastaurant would be in Rupees.
 
-<h2>  Introduction </h2>
+<h1>Hotel Management System</h1>
+This program is a hotel management system developed in class 12 of high school in India. It performs all the basic functions required for a hotel, including reserving rooms, checking in and out guests, keeping track of room availability, managing finances, scheduling housekeeping and maintenance, and more. The goal of the system is to make the hotel staff's job easier and to provide guests with a better experience.
 
-Performs all the basic functions that you need in a hotel management system like getting the consumer an avaiable room calculation all of the price for his stay tax included and all the add-ons he took during his stay
+<h2>Features</h2>
+The hotel management system offers several features, including:
 
-A hotel management system is a set of computer programs that help a hotel run smoothly. It can handle things like making reservations, checking guests in and out, keeping track of rooms and their availability, and managing the hotel's finances. It can also help with tasks like scheduling housekeeping and maintenance. The goal of a hotel management system is to make it easier for the hotel staff to do their jobs and provide a better experience for guests. It can also help the hotel owners and managers make better decisions by providing them with information about how the hotel is doing financially and how guests are interacting with the hotel.
+<ul>
+  <li>Room reservation</li>
+  <li>Room availability tracking</li>
+  <li>Guest check-in and check-out</li>
+  <li>Financial management</li>
+  <li>Housekeeping and maintenance scheduling</li>
+  <li>Restaurant billing</li>
+  <li>Laundry billing</li>
+  <li>Game billing</li>
+  <li>Total cost calculation</li>
+</ul>
+
+<h2>How it works</h2>
+The hotel management system prompts the user to enter their information, including name, address, check-in and check-out dates, and choice of room. Based on this information, the system calculates the total room rent for the guest's stay.
+
+The system also allows guests to order food from the hotel's restaurant, with a menu of items and prices available for selection. The system calculates the total food cost based on the guest's choices and quantity.
+
+Additionally, guests can give their laundry for cleaning, with prices varying based on the type of clothing. The system calculates the total cost of the laundry.
+
+Lastly, the system allows guests to play games with different prices per game. The system calculates the total cost of the games played by the guest.
+
+After all the expenses are calculated, the system produces a sub-total amount, adds a restaurant service charge, and provides the final bill. The user can then enter their account number to close the account.
 
 
 <h2> Sample Input and Outputs :</h2>
@@ -120,3 +143,10 @@ based on that it takes out the room rent for your total night stay
 
 
 <img src="https://media.istockphoto.com/id/1217605567/vector/temporarily-closed-red-stamp-or-warning-sign.jpg?s=612x612&w=0&k=20&c=E5HhBEUkDmjH_E2IHwTbDj2mMsUO-fG5wgTpifYpGbs=">
+
+
+<h2>Technologies Used</h2>
+This hotel management system is built using Python programming language.
+
+<h2>Conclusion</h2>
+This hotel management system is a comprehensive tool for hotels that enables guests to make reservations, check-in and out, and order various hotel services. With its user-friendly interface and calculation accuracy, it simplifies the hotel staff's job and enhances the guest's experience.
